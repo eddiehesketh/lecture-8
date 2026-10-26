@@ -175,19 +175,19 @@
 			[
 				{
 					"backtrace" : 9,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc/drivers"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc/drivers"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc/drivers/CMSIS/Core/Include"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc/drivers/CMSIS/Core/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc/drivers/cmsis_device_c0/Include"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc/drivers/cmsis_device_c0/Include"
 				}
 			],
 			"language" : "C",
@@ -274,19 +274,19 @@
 			[
 				{
 					"backtrace" : 9,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc/drivers"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc/drivers"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc/drivers/CMSIS/Core/Include"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc/drivers/CMSIS/Core/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Inc/drivers/cmsis_device_c0/Include"
+					"path" : "/Users/thomashesketh/Projects/lecture-8/Inc/drivers/cmsis_device_c0/Include"
 				}
 			],
 			"language" : "ASM",
@@ -322,12 +322,12 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-T/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release/stm32c031x6_flash.ld",
+				"fragment" : "-T/Users/thomashesketh/Projects/lecture-8/build/Release/stm32c031x6_flash.ld",
 				"role" : "flags"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-Wl,-Map=/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release/lecture_08a.map",
+				"fragment" : "-Wl,-Map=/Users/thomashesketh/Projects/lecture-8/build/Release/lecture_08a.map",
 				"role" : "flags"
 			},
 			{

@@ -1,3 +1,3 @@
-/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release/CMakeFiles/lecture_08a.dir
-/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release/CMakeFiles/edit_cache.dir
-/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release/CMakeFiles/rebuild_cache.dir
+/Users/thomashesketh/Projects/lecture-8/build/Release/CMakeFiles/lecture_08a.dir
+/Users/thomashesketh/Projects/lecture-8/build/Release/CMakeFiles/edit_cache.dir
+/Users/thomashesketh/Projects/lecture-8/build/Release/CMakeFiles/rebuild_cache.dir

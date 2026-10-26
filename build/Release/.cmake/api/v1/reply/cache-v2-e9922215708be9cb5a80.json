@@ -179,7 +179,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release"
+			"value" : "/Users/thomashesketh/Projects/lecture-8/build/Release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release/CMakeFiles/pkgRedirects"
+			"value" : "/Users/thomashesketh/Projects/lecture-8/build/Release/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -707,7 +707,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a"
+			"value" : "/Users/thomashesketh/Projects/lecture-8"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release"
+			"value" : "/Users/thomashesketh/Projects/lecture-8/build/Release"
 		},
 		{
 			"name" : "lecture_08a_IS_TOP_LEVEL",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a"
+			"value" : "/Users/thomashesketh/Projects/lecture-8"
 		}
 	],
 	"kind" : "cache",

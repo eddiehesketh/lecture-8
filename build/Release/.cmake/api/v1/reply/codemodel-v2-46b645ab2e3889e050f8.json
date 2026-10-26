@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "lecture_08a::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lecture_08a-Release-91f365f9bc72266dc984.json",
+					"jsonFile" : "target-lecture_08a-Release-62fece51d70c9d1acff3.json",
 					"name" : "lecture_08a",
 					"projectIndex" : 0
 				}
@@ -50,8 +50,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release",
-		"source" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a"
+		"build" : "/Users/thomashesketh/Projects/lecture-8/build/Release",
+		"source" : "/Users/thomashesketh/Projects/lecture-8"
 	},
 	"version" : 
 	{

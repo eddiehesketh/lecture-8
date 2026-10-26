@@ -1,2 +1,2 @@
-/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Src/main.c:10:5:main	40	static
-/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/Src/main.c:65:6:TIM3_IRQHandler	0	static
+/Users/thomashesketh/Projects/lecture-8/Src/main.c:10:5:main	40	static
+/Users/thomashesketh/Projects/lecture-8/Src/main.c:65:6:TIM3_IRQHandler	0	static

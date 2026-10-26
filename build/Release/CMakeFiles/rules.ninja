@@ -52,7 +52,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "/Users/thomashesketh/Library/Application Support/stm32cube/bundles/cmake/4.3.1+st.1/CMake.app/Contents/bin/cmake" --regenerate-during-build -S/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a -B/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release
+  command = "/Users/thomashesketh/Library/Application Support/stm32cube/bundles/cmake/4.3.1+st.1/CMake.app/Contents/bin/cmake" --regenerate-during-build -S/Users/thomashesketh/Projects/lecture-8 -B/Users/thomashesketh/Projects/lecture-8/build/Release
   description = Re-running CMake...
   generator = 1
 

@@ -1247,8 +1247,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a/build/Release",
-		"source" : "/Users/thomashesketh/Projects/Lecture_8_Code/lecture_08a"
+		"build" : "/Users/thomashesketh/Projects/lecture-8/build/Release",
+		"source" : "/Users/thomashesketh/Projects/lecture-8"
 	},
 	"version" : 
 	{
