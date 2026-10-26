@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Debug/lecture_08a.elf'
+elf = 'build/Debug/lecture_08a.elf'

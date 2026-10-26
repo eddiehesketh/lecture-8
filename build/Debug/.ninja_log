@@ -1,0 +1,9 @@
+# ninja log v5
+39	58	0	clean	a5d7cd46822e9788
+203	459	8123503405297714	lecture_08a.elf	92b57deac6365b08
+33	154	8121829827820220	CMakeFiles/lecture_08a.dir/Src/startup_stm32c031xx.S.obj	97d220344fcafd36
+25	234	8121829828623168	CMakeFiles/lecture_08a.dir/Src/sysmem.c.obj	6f08b7ee20e35a10
+18	331	8121829829588835	CMakeFiles/lecture_08a.dir/Src/syscall.c.obj	6e56a98950ac6cc8
+3	39	0	CMakeFiles/clean.additional	b789a563e928e22a
+6	203	8123503403702526	CMakeFiles/lecture_08a.dir/Src/main.c.obj	3ada772942ac5ed2
+24	365	8122905423383876	CMakeFiles/lecture_08a.dir/Src/my_stm_helper.c.obj	25243cd1c06dbd5b

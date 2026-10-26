@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "author": "Sajeeva Abeywardena",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-st-nucleo-c031c6", "id": "nucleo", "top": 0, "left": 0 },
+    { "type": "wokwi-mpu6050", "id": "mpu1", "top": 120, "left": 360, "rotate": 270 },
+    { "type": "wokwi-led", "id": "led1", "top": 220, "left": -220, "attrs": { "color": "green" } },
+    { "type": "wokwi-resistor", "id": "r_scl", "top": 0, "left": 300, "attrs": { "value": "4700" } },
+    { "type": "wokwi-resistor", "id": "r_sda", "top": 50, "left": 300, "attrs": { "value": "4700" } }
+  ],
+  "connections": [
+    [ "nucleo:3V3.1", "mpu1:VCC", "red", [ "h60", "v120" ] ],
+    [ "nucleo:GND.1", "mpu1:GND", "black", [ "h80", "v120" ] ],
+
+    [ "nucleo:3V3.1", "r_scl:1", "red", [ "h40", "v-20" ] ],
+    [ "nucleo:PB8", "r_scl:2", "blue", [ "h10" ] ],
+    [ "nucleo:PB8", "mpu1:SCL", "blue", [ "h150" ] ],
+
+    [ "nucleo:3V3.1", "r_sda:1", "red", [ "h40", "v30" ] ],
+    [ "nucleo:PB9", "r_sda:2", "green", [ "h10" ] ],
+    [ "nucleo:PB9", "mpu1:SDA", "green", [ "h150" ] ],
+
+    [ "nucleo:PA0", "led1:A", "green", [ ] ],
+    [ "nucleo:GND.2", "led1:C", "black", [] ]
+  ]
+}
